@@ -39,7 +39,7 @@ int main()
     return (0);
 }
 ```
-In this example the two strings, "Hello", "World", are joined creating one string, "Hello World", and then printed in terminal.
+In this example the two strings, `"Hello"`, `"World"`, are joined creating one string, `"Hello World"`, and then printed in terminal.
 
 ## Contributing
 I welcome contributions. If you have any bug fix or improvement, feel free to submit a pull request on the repository.
